@@ -5,7 +5,7 @@ This is a simple script to help you download a site from the wayback machine (ht
 # Usage
 ```
 # edit the script variables at the top, then run:
-./wayback_fetcher
+./wayback_fetcher.sh
 ```
 
 # Refresh the copy of wayback-machine-downloader
